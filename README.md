@@ -1,1 +1,1 @@
-# kaggle Projects for Data Science and Machine Learning
+# Kaggle Projects for Data Science and Machine Learning
