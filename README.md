@@ -1,3 +1,1 @@
-# My-projects
-
-This is for INFOSYS 220
+# kaggle Projects for Data Science and Machine Learning
